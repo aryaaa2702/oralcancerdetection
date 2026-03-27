@@ -24,7 +24,6 @@ oral-cancer-detection/
 │
 ├── data/                 # Dataset folder
 ├── models/               # Saved model files
-├── notebooks/            # Jupyter notebooks (if used)
 ├── src/                  # Source code
 │   ├── train.py
 │   ├── test.py
